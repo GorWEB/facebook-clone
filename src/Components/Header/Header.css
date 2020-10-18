@@ -1,0 +1,121 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    align-items: center;
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    top: 0;
+    box-shadow: 0 5px 8px -9px rgba(0,0,0,.75);
+}
+.header_dark{
+    background-color:#2c282e;
+}
+.header__leftLogo{
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+.header__left{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header__leftSearchIcon{
+    color: gray;
+}
+.header__leftSearch>input{
+    border: none;
+    outline-width: 0;
+    background-color: transparent;
+}
+.header__leftSearch{
+    display: flex;
+    align-items: center;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.header__leftSearch_dark{
+    background-color: #444048;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.header__leftSearch_dark>input{
+    border: none;
+    outline-width: 0;
+    background-color: transparent;
+}
+.header__leftSearch_dark>input::placeholder{
+    color: #d9d6dc;
+}
+/* center */
+.header__center{
+    display: flex;
+    align-items: center;
+}
+.header__option >.MuiSvgIcon-root{
+    color: gray;
+}
+.header__option:hover>.MuiSvgIcon-root{
+    color: #1077f3;
+}
+.header__option{
+    display: flex;
+    cursor: pointer;
+    padding: 0 25px;
+}
+.header__option:hover{
+    border-radius: 10px;
+    border-bottom: none;
+    background-color: #f3f3f3;
+    padding: 0 25px;
+}
+.header__option_dark{
+    display: flex;
+    cursor: pointer;
+    padding: 0 25px;
+}
+.header__option_dark:hover{
+    border-radius: 10px;
+    border-bottom: none;
+    background-color: #444048;
+    padding: 0 25px;
+}
+.header__option__active>.MuiSvgIcon-root{
+    color: #1077f3;
+}
+.header__option__active{
+    border-bottom: 4px solid #1077f3;
+}
+
+/* rigth */
+.header__right{
+    display: flex;
+    align-items: center;
+}
+.iconButton_dark{
+    color:#808080 !important;
+}
+.leftSearchIcon_dark{
+    color: #bcbabd !important;
+}
+.header__info{
+    align-items: center;
+    display: flex;
+}
+.header__info>h4{
+    margin-left: 10px;
+}
+.userName_dark{
+    word-wrap: break-word;
+    color: #d1ced3;
+}
+
+.icon_dark{
+    color:gray !important;
+}

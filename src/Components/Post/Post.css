@@ -1,0 +1,76 @@
+.post{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 0 7px 5px -7px rgba(0,0,0,.75);
+}
+.post_dark{
+    background-color:#2c282e ;
+}
+.postImage>img{
+    width: 100%;
+}
+.postTop{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    position: relative;
+}
+.postAvatar{
+    margin-right: 10px;
+}
+.postTop__info>h3{
+    font-size: medium;
+}
+.postTop__info_dark>h3{
+    color:#d9d6dc
+}
+.postText_dark{
+    color: #d9d6dc ;
+}
+.postTop__info_dark>p{
+    color:#7d7a80;
+}
+.postTop__info>p{
+    color: gray;
+    font-size: small;
+}
+.postBottom{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 20px;
+}
+.post__options{
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid lightgray;
+    color: gray;
+    cursor: pointer;
+    padding: 15px;
+}
+.post__options_dark{
+    border-top: 1px solid #5f5c61;
+}
+.post__option{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+}
+.post__option:hover{
+    background-color: #f3f3f3;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.post__option>p{
+    margin-left: 5px;
+}
+.post_option_dark:hover{
+    background-color: #444048 ;
+    border-radius: 25px;
+    cursor: pointer;
+}
