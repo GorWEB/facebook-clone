@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 React red
+
+
+
+
 Added dark/light switch functionality! User data is saved in localStorage after login,so after refreshing data saved!
 
 
@@ -10,6 +14,16 @@ Here is gif!
 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/61949794/96362413-a3cfe780-111c-11eb-948b-3d6ae4f539b9.gif)
+
+
+
+
+And another one!
+
+
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/61949794/96362515-6d469c80-111d-11eb-99fe-a43f3233f0ec.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
