@@ -6,28 +6,28 @@ function StoryList() {
     return (
       <div className="storyList">
         <Story
-          image="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/p720x720/37673675_2057868821145084_7663282482921340928_o.jpg?_nc_cat=109&_nc_sid=110474&_nc_ohc=T9rtQrTH2LQAX-RkJS6&_nc_ht=scontent.fevn2-1.fna&tp=6&oh=b91626a8a6882e6eab059a750285f2ae&oe=5FA8E976"
-          profileSrc="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/s960x960/117042020_2599283503670277_2336013943808384023_o.jpg?_nc_cat=100&_nc_sid=85a577&_nc_ohc=0V93yhwB9XEAX-g2dHd&_nc_ht=scontent.fevn2-1.fna&tp=7&oh=684f7f80e8c9347b403e0b939022a167&oe=5FAA0153"
+          image="https://scontent.fevn6-1.fna.fbcdn.net/v/t1.0-9/117042020_2599283503670277_2336013943808384023_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=p8cdFwuMvcYAX9s1w8m&_nc_ht=scontent.fevn6-1.fna&oh=e106aaef31e81953fb97c139e3d7e43f&oe=603A746B"
+          profileSrc="https://scontent.fevn6-1.fna.fbcdn.net/v/t1.0-9/117042020_2599283503670277_2336013943808384023_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_ohc=p8cdFwuMvcYAX9s1w8m&_nc_ht=scontent.fevn6-1.fna&oh=e106aaef31e81953fb97c139e3d7e43f&oe=603A746B"
           title="Gor Brutyan"
         />
         <Story
-          image="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/p720x720/106398883_10112062633203161_2656094466680824455_o.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=a4pkiUwLfzQAX-pQDIa&_nc_ht=scontent.fevn2-1.fna&tp=6&oh=6f816fc92359fea9bb988bf8f9adf6ee&oe=5FAA2B2C"
-          profileSrc="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/s960x960/79515135_10111007623880301_5111576226921709568_o.jpg?_nc_cat=1&_nc_sid=85a577&_nc_ohc=tCZwyLlA0f0AX-X5uFF&_nc_oc=AQltxbRcr_fTXepqtQNPWUxVQRM_aZoKuIwG0zv8i-MG1lYZCe4NslXhgJcyIItwjU4&_nc_ht=scontent.fevn2-1.fna&tp=7&oh=4ea8cdd8cf55764f4a4fda4d93072822&oe=5FAB12BF"
+          image="https://scontent.fevn6-1.fna.fbcdn.net/v/t1.0-9/125374154_10112554952002341_5142366622539205599_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_ohc=2R3naffBOFEAX8aZ0Y8&_nc_ht=scontent.fevn6-1.fna&oh=04cc5c8dd73c1689b4e0f77d80dd6078&oe=60397736"
+          profileSrc="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-1/s200x200/79515135_10111007623880301_5111576226921709568_o.jpg?_nc_cat=1&ccb=2&_nc_sid=7206a8&_nc_ohc=mxG7b1NaBW8AX9j0_cB&_nc_oc=AQkKQfbD7Q3yfe-PJaG_csHobTZ2j4ru52n8OmV_0nZxPi3SW-YvZSfvBIaFNe4v9dY&_nc_ht=scontent.fevn6-2.fna&tp=7&oh=3970d661d9ad167682cd1b99464f3860&oe=603B7E37"
           title="Mark Zuckerberg"
         />
         <Story
-          image="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/s960x960/121195872_10158812871817164_3882010162950342917_o.jpg?_nc_cat=1&_nc_sid=110474&_nc_ohc=5RYGLi3AdkwAX9pcJDj&_nc_oc=AQlc7VjURhxzrlealFkhbulXfBGCMF2zdS4ImBmHLYpfTJivlIYe8DCVI76eSdvKYpQ&_nc_ht=scontent.fevn2-1.fna&tp=7&oh=289d9288f02427627f042370f57576c2&oe=5FAAB9F4"
-          profileSrc="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/p960x960/68370535_10157524021292164_2508255635234095104_o.jpg?_nc_cat=1&_nc_sid=85a577&_nc_ohc=iEw8yL4AcqcAX-pBJYk&_nc_ht=scontent.fevn2-1.fna&tp=6&oh=75ee4514960ed839ef280ed921ecd761&oe=5FAB834B"
+          image="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-9/68370535_10157524021292164_2508255635234095104_o.jpg?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=6yVvwhOjQ9oAX9agwmo&_nc_ht=scontent.fevn6-2.fna&oh=68c1f5158aaa3c02904c802be8b7df6a&oe=603C5534"
+          profileSrc="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-9/68370535_10157524021292164_2508255635234095104_o.jpg?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=6yVvwhOjQ9oAX9agwmo&_nc_ht=scontent.fevn6-2.fna&oh=68c1f5158aaa3c02904c802be8b7df6a&oe=603C5534"
           title="Cristiano Ronaldo"
         />
         <Story
-          image="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/49135430_2078530655573438_5920194302469734400_n.jpg?_nc_cat=105&_nc_sid=7aed08&_nc_ohc=eUnULq6YwD0AX-sxkFt&_nc_ht=scontent.fevn2-1.fna&oh=ea3d3ad9bc7b5359baf8bc3da84355c2&oe=5FAAA402"
-          profileSrc="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/p960x960/48415650_2078601712232999_3152214375574536192_o.jpg?_nc_cat=1&_nc_sid=85a577&_nc_ohc=hQ_mu2T_zhMAX_5OjqE&_nc_ht=scontent.fevn2-1.fna&tp=6&oh=0a046e1da2b7a0acb975f6b5abda65f7&oe=5FAB2F50"
+          image="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-9/48415650_2078601712232999_3152214375574536192_o.jpg?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=c46-g3yKu4UAX-YC48S&_nc_ht=scontent.fevn6-2.fna&oh=098043cb6a885f12cc90675e26da54c9&oe=603B4C79"
+          profileSrc="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-9/48415650_2078601712232999_3152214375574536192_o.jpg?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=c46-g3yKu4UAX-YC48S&_nc_ht=scontent.fevn6-2.fna&oh=098043cb6a885f12cc90675e26da54c9&oe=603B4C79"
           title="Amanda Cerny"
         />
         <Story
-          image="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/119660564_3518121511581387_6147296722106109540_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=steREJ02rKkAX8J-1Dy&_nc_ht=scontent.fevn2-1.fna&oh=b47062eab746cc02ae1c4fd2846877ca&oe=5FA84D63"
-          profileSrc="https://scontent.fevn2-1.fna.fbcdn.net/v/t1.0-9/96513653_3155715207822021_1334068502004236288_n.jpg?_nc_cat=1&_nc_sid=85a577&_nc_ohc=EDKv-MvnhyAAX_wp8tB&_nc_ht=scontent.fevn2-1.fna&oh=6cd4234628efd3cbc1bf00508dc0afe6&oe=5FA9D01F"
+          image="https://scontent.fevn6-2.fna.fbcdn.net/v/t1.0-9/135745347_3831543973572471_43710472577070656_o.jpg?_nc_cat=109&ccb=2&_nc_sid=a26aad&_nc_ohc=K3EuWZhU0WgAX91S0kj&_nc_ht=scontent.fevn6-2.fna&oh=721b4b0241d63d04c42c37bd6044c38c&oe=603C9323"
+          profileSrc="https://scontent.fevn6-1.fna.fbcdn.net/v/t1.0-1/p160x160/144340568_256416115838121_4569485865311109867_n.jpg?_nc_cat=103&ccb=2&_nc_sid=c6021c&_nc_ohc=kzIq-bfboyMAX-N3hb3&_nc_ht=scontent.fevn6-1.fna&tp=6&oh=c14abc4b56e7a9335049aec1a48c37e1&oe=603B266B"
           title="Iveta Mukuchyan"
         />
       </div>
