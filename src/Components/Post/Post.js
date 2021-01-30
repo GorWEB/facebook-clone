@@ -25,7 +25,7 @@ function Post({profileSrc,postText,image,userName,timestamp,theme}) {
         <div className="postBottom">
           <p className={`${theme==="dark"?"postText_dark":""}`}>{postText}</p>
         </div>
-        <div className="postImage">{image && <img src={image} />}</div>
+        <div className="postImage">{image && <img alt='postImage' src={image} />}</div>
         <div className={`post__options ${theme==="dark"?"post__options_dark":""}`}>
           <div
             className={`post__option ${

@@ -79,7 +79,7 @@ function Header(props) {
     return (
       <div className={`header ${props.theme === "dark" ? "header_dark" : ""}`}>
         <div className="header__left">
-          <img className="header__leftLogo" src={logo} />
+          <img alt='leftLogo' className="header__leftLogo" src={logo} />
           <div
             className={`header__leftSearch ${
               props.theme === "dark" ? "header__leftSearch_dark" : ""
